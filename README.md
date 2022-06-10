@@ -1,4 +1,4 @@
-Principais comandos para o uso do Git e Github
+﻿Principais comandos para o uso do Git e Github
 
 
 git config user.name: configura o nome de usuario
@@ -34,3 +34,5 @@ git checkout: muda de uma branch para a outra
 git tag: cria TAGS, que nada mais é do que marcações para organizar suas filiais
 
 clear: limpa textos do termina.
+
+lembrei do comando: git commit
